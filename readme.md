@@ -1,3 +1,4 @@
+```
 main code complete,
 testbench needed to be implemented
 
@@ -21,3 +22,4 @@ creates dump file with "output_filename.vcd"
 gtk_wave:
 
 gtkwave utput_filename.vcd
+```
